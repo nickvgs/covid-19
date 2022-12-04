@@ -29,7 +29,7 @@
 
 # Imagens da Leitura de Tabela do Google Data Studio 
 <p align="center">
-  <img src="./img/script_table.jpg" >
+  <img src="./img/table_gds.jpg" >
 </p>
 
 
