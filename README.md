@@ -31,7 +31,6 @@
   <img src="./img/azure_painel.jpg" >
 </p>
 
-
-
+<p align="center">
 ### Integrantes do Grupo: Carlos Roberto Watarai RA: 1825492 / Leandro V. S. Pereira RA: 1834509 / Nicolas Vogiantzis RA: 1820026 / Renan Rodrigues RA: 1819723
-
+</p>
