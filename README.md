@@ -16,7 +16,24 @@
 ##### Nicolas Vogiantzis RA: 1820026
 ##### Renan Rodrigues RA: 1819723
 
+# Imagens do Desenvolvimento 
 <!--Imagens session-->
 <p align="center">
-  <img src="./img/azure_painel.jpg" tittle="Azure Painel">
+  <img src="./img/desenvolvimento.jpg" >
+</p>
+
+# Imagens do Script tabela  
+<p align="center">
+  <img src="./img/script_table.jpg" >
+</p>
+
+# Imagens da Leitura de Tabela do Google Data Studio 
+<p align="center">
+  <img src="./img/script_table.jpg" >
+</p>
+
+
+# Imagens Painel Azure com a Instância do Banco de Dados
+<p align="center">
+  <img src="./img/azure_painel.jpg" >
 </p>
