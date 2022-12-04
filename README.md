@@ -9,9 +9,14 @@
 ##### Neste Projeto Criamos um banco de Dados no Azure para hospedar os dados e dispobilizar para a criação do Dashboard na Ferramenta de BI Google Data Studio.
 
 
+
 ## Integrantes do Grupo
 ##### Carlos Roberto Watarai RA: 1825492
 ##### Leandro V. S. Pereira RA: 1834509
 ##### Nicolas Vogiantzis RA: 1820026
 ##### Renan Rodrigues RA: 1819723
 
+<!--Imagens session-->
+<p align="center">
+  <img src="./img/azure_painel.jpg" tittle="Azure Painel">
+</p>
