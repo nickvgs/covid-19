@@ -7,7 +7,8 @@
 ##### O script foi criado para tratar os dados coletados no site https://covid.saude.gov.br/ .
 ##### Os dados foram concatenados e inseridos no banco de dados PostgreSQL.
 ##### Neste Projeto Criamos um banco de Dados no Azure para hospedar os dados e dispobilizar para a criação do Dashboard na Ferramenta de BI Google Data Studio.
-
+##### Link do Dashboard de Analise https://datastudio.google.com/reporting/355734fd-5230-4df4-bbf4-d27263d71f6b/page/84W9C/edit
+##### Por questões de custo o Banco de dados será desativado após o dia 20/12/2022 , e ficará disponivel apenas em relatório em PDF salvo aqui neste repositório.
 
 # Imagens do Desenvolvimento 
 <!--Imagens session-->
